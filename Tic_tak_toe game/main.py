@@ -36,7 +36,7 @@ def main():
                 time.sleep(0.9)
 
             while True:
-                
+                # print choose for player X or O or quit
                 print(f"\nTurn to choose for {currunt_player}")
                 print("\nEnter 1 for X")
                 print("Enter 2 for O")
